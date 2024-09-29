@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Param</h1>
-<h3 align="center">A passionate student developer from India</h3>
+<h1 align="center">Hi 👋, I'm Paramjeet Singh</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 - 📫 How to reach me **paramjsingh204@gmail.com**
 
